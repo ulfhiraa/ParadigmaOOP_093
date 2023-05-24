@@ -13,7 +13,7 @@ int main() {
 	anak* varAnak3 = new anak("Dewi");
 
 	varIbu->tambahAnak(varAnak1);
-	varIbu->tambahAnak(varAnak2);
+	varIbu->tambahAnak(varAnak2); 
 	varIbu->tambahAnak(varAnak3);
 	varIbu->tambahAnak(varAnak1);
 
